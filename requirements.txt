@@ -1,0 +1,9 @@
+PyQt5
+selenium
+pygame
+xlsxwriter
+phonenumbers
+requests
+urllib3
+pandas
+openpyxl
